@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: plainresponsive
 markdown: redcarpet
 pygments: true
+baseurl: /
